@@ -2,8 +2,7 @@
 
 
 # 💫 About Me:
-I'm currently learning DSA with C++
-
+I'm currently learning DSA with C++ And Web Developement Simultaneously
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-srivastava-b36753320) 
